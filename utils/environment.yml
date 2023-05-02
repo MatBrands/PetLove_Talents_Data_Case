@@ -1,0 +1,12 @@
+name: petlove_talents_case_venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipykernel
