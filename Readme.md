@@ -2,7 +2,7 @@
 
 - Programa: PetLove Talents
 - Case: Dados
-- Objetivo: Análise de churn de clientes
+- Objetivo: Análise de Churn Rate de clientes
 - Empresa: PetLove
 
 #### **Introdução**
