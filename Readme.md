@@ -45,7 +45,7 @@ Seu trabalho será apresentar um resultado final com DOIS pontos principais: Qua
 ## Base de dados
 Neste projeto iremos analisar um dataset em formato de csv disponibilizado pelo time de PetLove. Seus metadados estão dispostos da seguinte maneira:
 
-| Nome               | Description. |
+| Nome               | Descrição                                          |
 |--------------------|----------------------------------------------------|
 | id                 | Identificação do cliente                           |
 | created_at         | Data de criação da assinatura                      |
@@ -139,7 +139,7 @@ deactivate
 ├── Readme.md
 └── utils
     ├── environment.yml
-    └── Readme.md
+    └── requirements.txt
 ```
 
 ## Commits
